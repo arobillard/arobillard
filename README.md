@@ -1,7 +1,10 @@
 # Hi there! 👋
 
-I am a web developer 💻, designer 🖌️, and educator 🎓.
+I've been working as a web developer 💻, designer 🖌️, and educator 🎓 for over 6 years. I have experience working in every step of the web process including project management, user research, content structure/planning, design, development, deployment, and maintenance. I am passionate about the entire web process and my broad background allows me to bring knowledge to every stage and to provide the perspective needed to ensure all areas of a project work seamlessly together.
 
+When not working or teaching, I usually can be found developing web projects just for myself as I believe that the best way to learn and improve is to experiment with new ideas and technologies. If you are interested in seeing my work, feel free to take a look at my repositories or checkout my portfolio website: [adamrobillard.ca](https://adamrobillard.ca)
+
+Feel free to reach out: 📫 [hello@adamrobillard.ca](mailto:hello@adamrobillard.ca)
 <!--
 **arobillard/arobillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
